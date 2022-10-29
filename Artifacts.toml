@@ -1,0 +1,127 @@
+[[GNUTime]]
+arch = "aarch64"
+git-tree-sha1 = "536eb2ca7b21c2f4f775665b942eecc78698f152"
+os = "macos"
+
+    [[GNUTime.download]]
+    sha256 = "6ad56787023135d2aeb805645945d90d7e367636f577ba4cf1c936684c4c4718"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.aarch64-apple-darwin.tar.gz"
+[[GNUTime]]
+arch = "aarch64"
+git-tree-sha1 = "a4c7758a507795e2e3f2c758e53eb8dd779faefa"
+libc = "glibc"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "3a873aa037981b527749f36986499baff1c97ec00323d4472d0b10a499125c2b"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.aarch64-linux-gnu.tar.gz"
+[[GNUTime]]
+arch = "aarch64"
+git-tree-sha1 = "4ed2bfcf27f196367aa85b833f5dc099a8627124"
+libc = "musl"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "30cc7171d88b3dbac21c36e803a3fa8bef5466722718db70bdc47f7be8ae91ff"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.aarch64-linux-musl.tar.gz"
+[[GNUTime]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2b846c286729e0cc7ea0365a9ce699b21a96b3ed"
+libc = "glibc"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "c15b1cf89c71705717a325e555c46f63ac0e60c232685bfda57e8e752e116779"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.armv6l-linux-gnueabihf.tar.gz"
+[[GNUTime]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "3db034958d963a69b46731457db9098c6be161eb"
+libc = "musl"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "e83df05de1035da92fcc30ef05be4fae34b87e8e7c6a04ae895bcb3a25558731"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.armv6l-linux-musleabihf.tar.gz"
+[[GNUTime]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c5e5f4a54a8d5da2a615341487d9424475e41a6f"
+libc = "glibc"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "432a29385cad4e64b79618d2324aee83a7a7b85d411a8960affc3fb7c409a292"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.armv7l-linux-gnueabihf.tar.gz"
+[[GNUTime]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8d7ac0889faedec3ca0e663ea8099b6c85a8ab22"
+libc = "musl"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "ad7313b1a33407390d138f8d77f87b06c0d27108c299ce21e167b57a02b91532"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.armv7l-linux-musleabihf.tar.gz"
+[[GNUTime]]
+arch = "i686"
+git-tree-sha1 = "30abaa86fa990be9b1615beba1ed00429ecd4558"
+libc = "glibc"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "46071ac46a4ff1d271e2fa6aca36f4bf349fc3cd25122f2a25e9068999b013dc"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.i686-linux-gnu.tar.gz"
+[[GNUTime]]
+arch = "i686"
+git-tree-sha1 = "06ffc4e6d97914e129f0d0fa8ce5a04eb4d052fc"
+libc = "musl"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "32f8608feda2e7951cbb6fed02dff8ac86e4a3962b3746ac2a5238087e502b1d"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.i686-linux-musl.tar.gz"
+[[GNUTime]]
+arch = "powerpc64le"
+git-tree-sha1 = "124e03d42ec67ed767dd4112d68f7a846c81d2b5"
+libc = "glibc"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "0946952a4cd6eed27c05a196a7eded1465b36b0de31b185b82c680fbe1af4a11"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.powerpc64le-linux-gnu.tar.gz"
+[[GNUTime]]
+arch = "x86_64"
+git-tree-sha1 = "14cf6bf723ea6ed72f67a5ab994a0d38c26e9663"
+os = "macos"
+
+    [[GNUTime.download]]
+    sha256 = "daae9ecce9f680f45e60839ac5b0f5e08279450bfaf47da07eb79760b2d16598"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.x86_64-apple-darwin.tar.gz"
+[[GNUTime]]
+arch = "x86_64"
+git-tree-sha1 = "26ffa514033f9e757e6ec4d5b4bff110a68bda2e"
+libc = "glibc"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "5a6f5d72f1f256287c9332f74f51445e520f80c69a10e035bf1914bf3f0116de"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.x86_64-linux-gnu.tar.gz"
+[[GNUTime]]
+arch = "x86_64"
+git-tree-sha1 = "7949571f722144ef5ebf59c3f7ce56ac45ed185c"
+libc = "musl"
+os = "linux"
+
+    [[GNUTime.download]]
+    sha256 = "4cf5b14bb6556e3da215604643d1eec22a5c57f68dd1a7d241421e7470d5152d"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.x86_64-linux-musl.tar.gz"
+[[GNUTime]]
+arch = "x86_64"
+git-tree-sha1 = "1ffd2cbde8b396cec694389f744d543576145359"
+os = "freebsd"
+
+    [[GNUTime.download]]
+    sha256 = "d8fe5f9742ab208a183e485bee54b9726a99bda63caef8c4559db27b0fa828d8"
+    url = "https://github.com/JuliaBinaryWrappers/GNUTime_jll.jl/releases/download/GNUTime-v1.9.0+0/GNUTime.v1.9.0.x86_64-unknown-freebsd.tar.gz"
